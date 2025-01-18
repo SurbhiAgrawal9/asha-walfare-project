@@ -3,7 +3,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
-import { Heart, School, Users, HandHeart, ArrowRight, Globe, Menu, X } from "lucide-react";
+import { Heart, School, Users, HandHeart, ArrowRight, Menu, X } from "lucide-react";
 import { useState } from "react";
 
 function App() {
